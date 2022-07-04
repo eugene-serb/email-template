@@ -1,6 +1,5 @@
-# email-template
-
-This is a simple email template in html.
+# Email Template
+Simple html email template. **[[rep](https://github.com/eugene-serb/email-template/), [site](https://eugene-serb.github.io/email-template/)]**
 
 ***/ (root)*** – dir for dev. <br />
 ***/docs/*** – dir for web version and production to demonstrate.
