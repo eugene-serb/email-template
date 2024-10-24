@@ -1,9 +1,11 @@
 # Email Template
-Simple html email template. **[[rep](https://github.com/eugene-serb/email-template/), [site](https://eugene-serb.github.io/email-template/)]**
 
-***/ (root)*** – dir for dev. <br />
-***/docs/*** – dir for web version and production to demonstrate.
+Simple email template. **[[rep](https://github.com/eugene-serb/email-template/)]**
 
-P.S. ***/docs/*** version use css styles metas, and other code for work, and this looks some different.
 
-If you are interested in this or my other projects, or would like to suggest and share ideas with me, or just talk to me, contact me: *[@eugene_serb](https://t.me/eugene_serb)*
+## Stack:
+
+![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=FFFFFF&color=E44D26)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=FFFFFF&color=25A1E1)
+![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
+![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
